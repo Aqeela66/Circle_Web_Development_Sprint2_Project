@@ -1,3 +1,3 @@
 #Circle_Web_Development_Sprint2_Project
-web development preview
+Circle_Web_Development_Sprint2_Project
 
